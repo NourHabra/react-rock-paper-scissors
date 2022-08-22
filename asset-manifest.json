@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-rock-paper-scissors/static/css/main.d52b216b.css",
+    "main.js": "/react-rock-paper-scissors/static/js/main.268875b9.js",
+    "static/media/logo.svg": "/react-rock-paper-scissors/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
+    "static/media/image-rules.svg": "/react-rock-paper-scissors/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
+    "static/media/icon-paper.svg": "/react-rock-paper-scissors/static/media/icon-paper.8b57a6b108c1b8ae82931a39b10f96a2.svg",
+    "index.html": "/react-rock-paper-scissors/index.html",
+    "static/media/icon-scissors.svg": "/react-rock-paper-scissors/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e955865ec04d9ed.svg",
+    "static/media/icon-rock.svg": "/react-rock-paper-scissors/static/media/icon-rock.476e90a9646a87bb3645d2f09f4f7fba.svg",
+    "static/media/icon-close.svg": "/react-rock-paper-scissors/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "static/media/bg-triangle.svg": "/react-rock-paper-scissors/static/media/bg-triangle.77c6ca418d3751d8f717.svg",
+    "main.d52b216b.css.map": "/react-rock-paper-scissors/static/css/main.d52b216b.css.map",
+    "main.268875b9.js.map": "/react-rock-paper-scissors/static/js/main.268875b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52b216b.css",
+    "static/js/main.268875b9.js"
+  ]
+}
